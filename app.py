@@ -124,6 +124,9 @@ def plot(df, year):
 
 
 def main():
+    # Küsisin ChatGPT-lt, kuidas streamliti kasutada
+    # Lisaks uurisin, kuidas selectboxi kasutada ja kuidas loomuliku iive pilti
+    # saaks kuvada Streamlitis.
     st.set_page_config(page_title="Loomulik iive maakonniti", layout="wide")
     st.title("Loomulik iive maakonniti")
 
